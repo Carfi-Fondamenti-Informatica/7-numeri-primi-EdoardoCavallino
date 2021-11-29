@@ -1,5 +1,5 @@
 
-#include "libreria.h"
+#include "lib.h"
 
 int nprimo(int a, int b) {
     int risultato = 1, n = 0;
